@@ -1,0 +1,9 @@
+output:
+  text: Hello World
+
+image: testsurround
+company: yourcompany
+version: latest
+
+# Details of class inheriting from Wrapper
+wrapper-info: testsurround.wrapper.PipelineWrapper
